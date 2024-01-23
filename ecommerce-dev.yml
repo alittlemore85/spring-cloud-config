@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: devskparkjsonwebtokenkdjvmncjdskfnjcknasjkdlfnjsdkalMjMxMzEyMzEyMzEzMTIzMTIzMTIzMTMxMjMxMzEzMTMxMjM
+  secret: devsskparkjsonwebtokenkdjvmncjdskfnjcknasjkdlfnjsdkalMjMxMzEyMzEyMzEzMTIzMTIzMTIzMTMxMjMxMzEzMTMxMjM
   
 gateway:
   ip: localhost
